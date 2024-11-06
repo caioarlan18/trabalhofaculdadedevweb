@@ -234,6 +234,7 @@
   background-color: #e87d9f;
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 
 .ft p {
