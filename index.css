@@ -117,8 +117,9 @@
 
 /* about page */
 .sobret {
-  width: 90%;
-  margin-top: 30px;
+  width: 95%;
+  margin-top: 40px;
+  margin-bottom: 30px;
 }
 
 .sobret h1 {
@@ -129,8 +130,9 @@
 }
 
 .sobre {
-  margin-top: 30px;
-  width: 90%;
+  margin-bottom: 40px;
+  width: 95%;
+
 }
 
 .sobre1 p {
@@ -146,13 +148,13 @@
   align-items: center;
   margin-top: 50px;
   border-radius: 50%;
-  width: 350px;
-  height: 350px;
+  width: 300px;
+  height: 330px;
 }
 
 /* cadastro */
 .cadastro {
-  margin: 40px 0px;
+  margin: 50px 0px;
 }
 
 .cadastrot h1 {
@@ -274,7 +276,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 120px;
+    height: 150px;
     width: 100%;
   }
 
@@ -315,6 +317,7 @@
   .sobret {
     width: 80%;
     margin-top: 70px;
+    margin-bottom: 0px;
   }
 
   .sobre {
@@ -323,6 +326,7 @@
     align-items: center;
     justify-content: center;
     margin-bottom: 50px;
+
   }
 
 
@@ -336,5 +340,8 @@
     width: 60%;
   }
 
+  .ft p {
+    font-size: 15px;
+  }
 
 }
